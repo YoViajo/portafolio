@@ -38,7 +38,7 @@ Trabajo especialmente con contextos donde los datos son incompletos, heterogéne
 ### Trabajo avanzado con documentos
 - Procesamiento de documentos PDF y Word  
 - Resumen estructurado de documentos extensos  
-- Recuperación semántica de información (RAG) con fuentes citadas  
+- Recuperación semántica de información con fuentes citadas  
 
 ### Análisis espacial y geomarketing
 - Integración de datos geográficos y alfanuméricos  
@@ -75,7 +75,7 @@ Registros legales y notariales · Catastro e inventarios · Procesos administrat
 
 ---
 
-### Asistente de consulta documental (RAG)
+### Asistente de consulta documental
 
 **Problema**  
 Dificultad para localizar información relevante dentro de grandes volúmenes documentales.
