@@ -1,0 +1,28 @@
+title: Eric Armijo | Soluciones analíticas y geográficas
+description: Diseño e implementación de soluciones analíticas orientadas a optimizar el trabajo con datos, documentos y territorio.
+theme: minima
+lang: es
+
+# Ruta base para sitio de proyecto
+baseurl: /portafolio
+
+# Configuración del autor
+author:
+  name: Eric Armijo
+  email: earmijo.prof@gmail.com
+
+# Redes sociales
+github_username: YoViajo
+linkedin_username: ericarmijo
+
+# Configuración técnica
+markdown: kramdown
+kramdown:
+  input: GFM
+
+# Excluir archivos del sitio generado
+exclude:
+  - README.md
+  - LICENSE
+  - Gemfile
+  - Gemfile.lock

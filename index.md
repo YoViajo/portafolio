@@ -1,9 +1,11 @@
 ---
 layout: default
-title: Soluciones analíticas y espaciales
+title: Eric Armijo | Soluciones analíticas y geográficas
 ---
 
-# Soluciones analíticas y espaciales
+<h1 style="color: #2563eb;">Eric Armijo</h1>
+
+## Soluciones analíticas y geográficas
 
 Diseño e implementación de soluciones analíticas orientadas a optimizar el trabajo con datos, documentos y territorio en sectores intensivos en información.
 
@@ -114,7 +116,7 @@ Estudios jurídicos · Áreas legales corporativas · Gestión documental especi
 
 Para consultas, colaboraciones o proyectos puntuales:
 
-[GitHub](https://github.com/TU_USUARIO) · [Correo electrónico](mailto:tu@correo.com) · [LinkedIn](https://linkedin.com/in/TU_USUARIO)
+[GitHub](https://github.com/YoViajo) · [Correo electrónico](mailto:earmijo.prof@gmail.com) · [LinkedIn](https://www.linkedin.com/in/ericarmijo/)
 
 ---
 
